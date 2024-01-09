@@ -1,0 +1,2 @@
+# Sesgos-Cognitivos
+Sesgos cognitivos
